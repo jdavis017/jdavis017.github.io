@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 ---
 
+## About Me
+
 I am a Mechanical Engineering student passionate about bridging the gap between hardware and software. I love building physical systems and optimizing them using modern programming languages and automation tools.
 
 ## Technical Skills
