@@ -1,9 +1,7 @@
 ---
-layout: home
+layout: about
 author_profile: true
 ---
-
-## About Me
 
 I am a Mechanical Engineering student passionate about bridging the gap between hardware and software. I love building physical systems and optimizing them using modern programming languages and automation tools.
 
@@ -23,8 +21,5 @@ I am a Mechanical Engineering student passionate about bridging the gap between 
 
 ## Featured Projects
 
-*(We will build out individual pages for these next!)*
-
 * **Project 1:** Automated Mechanical System (Python + Arduino)
 * **Project 2:** Mechanical Design & Finite Element Analysis (SolidWorks + ANSYS)
-
